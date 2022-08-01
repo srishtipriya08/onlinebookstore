@@ -204,6 +204,7 @@ section{
   }
 .header .header-2{
     background:var(--green);
+    
 }
 
 .header .header-2 .navbar{
@@ -232,7 +233,7 @@ section{
     
 }
 
-.bottom-navbar{
+/* .bottom-navbar{
     text-align: center;
     background:var(--green);
     position: fixed;
@@ -249,7 +250,7 @@ section{
 
 .bottom-navbar a:hover{
     background:var(--dark-color);
-}
+} */
 
 .login-form-container{
     display: flex;
@@ -1025,9 +1026,9 @@ section{
         padding-bottom: 6rem;
     }
 
-    .header .header-2{
+    /* .header .header-2{
         display:none;
-    }
+    } */
 
     .bottom-navbar{
         display: block;
